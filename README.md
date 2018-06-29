@@ -20,5 +20,5 @@ The values are IPFS blocks of gzipped JSON, which reduces the size of the blocks
 Additionally, receipts are stored for every tarball in gharchive.
 
 ```
-/receipts/:year/:month/:day/:filename
+/receipts/:filename
 ```
