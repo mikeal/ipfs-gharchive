@@ -16,9 +16,10 @@
     "bent": "^1.1.0",
     "cids": "^0.5.3",
     "farmhash": "^2.1.0",
-    "ipld-complex-graph-builder": "^0.1.0",
-    "ipld-store": "^0.1.1",
-    "json-stream": "^1.0.0"
+    "ipld-complex-graph-builder": "^1.1.0",
+    "ipld-store": "^0.2.0",
+    "json-stream": "^1.0.0",
+    "tmp": "0.0.33"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.5",
